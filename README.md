@@ -52,5 +52,4 @@ To learn and apply new Python tools and Android libraries to push my projects ev
 ![Python](icons/python.svg)
 ![React](icons/react.svg)
 ![SQLite](icons/sqlite.svg)
-![TypeScript](icons/typescript.svg)
 
