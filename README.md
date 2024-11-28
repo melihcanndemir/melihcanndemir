@@ -37,3 +37,20 @@ I write modular and scalable code, continuously improving and integrating new te
 To integrate the latest APIs and innovations into my Android and Python projects, continuously improving performance and user experience.
 
 To learn and apply new Python tools and Android libraries to push my projects even further.
+
+## Tools
+
+![CSS](icons/css.svg)
+![Docker](icons/docker.svg) 
+![Git](icons/git.svg)
+![GitHub](icons/github.svg)
+![JavaScript](icons/javascript.svg)
+![MySQL](icons/mysql.svg)
+![NodeJS](icons/nodejs.svg)
+![PHP](icons/php.svg)
+![PostgreSQL](icons/postgresql.svg)
+![Python](icons/python.svg)
+![React](icons/react.svg)
+![SQLite](icons/sqlite.svg)
+![TypeScript](icons/typescript.svg)
+
