@@ -1,55 +1,24 @@
-👨‍💻 Melih | Android Developer & Python Enthusiast
+<h1 align="center">Hi 👋, I'm Melih Can Demir</h1>
+<h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
-Hi, I'm Melih! I specialize in Android Development and Python, focusing on creating user-friendly and performance-oriented solutions. I'm passionate about continuously learning and applying new knowledge in my projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihcanndemir&label=Profile%20views&color=0e75b6&style=flat" alt="melihcanndemir" /> </p>
 
-📌 Areas of Expertise:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihcanndemir" alt="melihcanndemir" /></a> </p>
 
-Android Development: I've developed various Android projects, gaining expertise in Java and Kotlin. My focus is on creating efficient, high-performance mobile applications with simple and intuitive user interfaces.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihcandemir" height="30" width="40" /></a>
+<a href="https://instagram.com/melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihcandemir" height="30" width="40" /></a>
+<a href="https://medium.com/@melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melihcandemir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@melihcandemir" height="30" width="40" /></a>
+</p>
 
-Python: I actively use Python for automation, data processing, and application development. Its versatility allows me to deliver fast, scalable solutions in my projects.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihcanndemir&show_icons=true&locale=en&layout=compact" alt="melihcanndemir" /></p>
 
-📱 Android Projects:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihcanndemir&show_icons=true&locale=en" alt="melihcanndemir" /></p>
 
-Notepad App: A simple and efficient note-taking app that allows users to organize, search, and edit their notes easily, offering a clean and intuitive interface.
-
-APK Backup App: A secure and user-friendly app for backing up and restoring APK files on Android devices, helping users keep their apps safe and accessible.
-
-QR Code App: A QR code scanner and generator app that enables users to create and scan QR codes quickly and efficiently.
-
-
-🐍 Python Projects:
-
-Data Analysis & Automation: I've developed Python tools for data processing and automation, enabling efficient data handling and automating repetitive tasks.
-
-Web-Based WiFi Extender Management Panel: Developed a simple and effective management panel using Python and Flask to manage a Raspberry Pi as a WiFi extender.
-
-
-🚀 What I Offer:
-
-With extensive knowledge in both Android and Python, I aim to develop modern, scalable, and sustainable solutions.
-
-I write modular and scalable code, continuously improving and integrating new technologies into both Android and Python projects.
-
-
-💡 Future Goals:
-
-To integrate the latest APIs and innovations into my Android and Python projects, continuously improving performance and user experience.
-
-To learn and apply new Python tools and Android libraries to push my projects even further.
-
-## Tools
-
-![CSS](icons/css.svg)
-![Docker](icons/docker.svg) 
-![Git](icons/git.svg)
-![GitHub](icons/github.svg)
-![JavaScript](icons/javascript.svg)
-![MySQL](icons/mysql.svg)
-![NodeJS](icons/nodejs.svg)
-![PHP](icons/php.svg)
-![PostgreSQL](icons/postgresql.svg)
-![Python](icons/python.svg)
-![React](icons/react.svg)
-![SQLite](icons/sqlite.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melihcanndemir&" alt="melihcanndemir" /></p>
 
