@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Mobilyaplan**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5145471264212833611](https://play.google.com/store/apps/dev?id=5145471264212833611)
+- 👨‍💻 All of my projects are available at [https://bitly/melihcan](https://bitly/melihcan)
 
 - 💬 Ask me about **Android**
 
