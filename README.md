@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melih Can Demir</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
+![Android](images/developer.png)
+
 - 🔭 I’m currently working on **QRCode Scanner**
 
 - 🌱 I’m currently learning **React**
@@ -13,8 +15,6 @@
 
 - 📫 How to reach me **melihcandemir@protonmail.com**
 
-
-![Android](images/developer.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
