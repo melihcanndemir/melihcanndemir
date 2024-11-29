@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Mobilyaplan**
 
-- 👨‍💻 All of my projects are available at [https://bitly/melihcan](https://bitly/melihcan)
+- 👨‍💻 All of my projects are available at [https://bit.ly/melihcan](https://bit.ly/melihcan)
 
 - 💬 Ask me about **Android**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihcandemir" height="30" width="40" /></a>
 <a href="https://instagram.com/melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihcandemir" height="30" width="40" /></a>
 <a href="https://medium.com/@melihcandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melihcandemir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@melihcan_demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@melihcan_demir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@melihcan_demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@melihcan_demir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
