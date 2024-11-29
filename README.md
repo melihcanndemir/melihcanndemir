@@ -1,7 +1,7 @@
+![Android](images/developer.png)
+
 <h1 align="center">Hi 👋, I'm Melih Can Demir</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
-
-![Android](images/developer.png)
 
 - 🔭 I’m currently working on **QRCode Scanner**
 
