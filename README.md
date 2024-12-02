@@ -2,12 +2,10 @@
 
 <h1 align="center">Hi 👋 I'm Melih Can Demir</h1>
 - 🔭 I’m currently working on QRCode Scanner
-
 - 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **Mobilyaplan**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/melihcan](https://bit.ly/melihcan)
+- 👨‍💻 All of my projects are available at [Google Play Store](https://bit.ly/melihcan)
 
 - 💬 Ask me about **Android**
 
