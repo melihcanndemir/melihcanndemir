@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Melih Can Demir</h1>
 
-- 🔭 I’m currently working on **QRCode Scanner**
+- 🔭 I’m currently working on **Mindbook**
 
 - 🌱 I’m currently learning **React**
 
