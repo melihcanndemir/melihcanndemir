@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Mobilyaplan**
-
 - 👨‍💻 All of my projects are available at [Google Play Store](https://bit.ly/melihcan)
 
 - 💬 Ask me about **Android**
