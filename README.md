@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Mindbook**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [Google Play Store](https://bit.ly/melihcan)
 
 - 💬 Ask me about **Android**
