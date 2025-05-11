@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [Google Play Store](https://bit.ly/melihcan)
 
+- Strict TypeScript obsession
+
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **melihcandemir@protonmail.com**
