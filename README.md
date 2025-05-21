@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Google Play Store](https://bit.ly/melihcan)
 
-- Strict TypeScript obsession ☠️
+- ☠️ Strict TypeScript obsession 
 
 - 💬 Ask me about **Android**
 
