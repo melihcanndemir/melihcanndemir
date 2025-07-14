@@ -28,6 +28,17 @@
 - 💬 Ask me about **Android**, **React Native**, and **Clean Architecture**
 - 👨‍💻 My apps are available on [Google Play Store](https://bit.ly/melihcan)
 - 📫 Reach me at **melihcandemir@protonmail.com**
+- 📝 Read my latest articles on [Medium](https://medium.com/@melihcandemir) about Artificial Intelligence Architecture and Prompt Engineering
+
+
+---
+
+---
+
+## Interests  
+- Minimalist UX Design  
+- AI Integration in Mobile Apps  
+- Open Source Contribution
 
 ---
 
