@@ -7,14 +7,13 @@
 </a>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Mindbook-Pro-%231a91ff?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strict-TypeScript-%23191970?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offline-First-%231a91ff?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-SOLID-%23191970?style=for-the-badge&logo=structure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neuro%20UX-Minimalism-%23ff00c8?style=for-the-badge&logo=eye&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Native-%8fce00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI-CD-%23177BFF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Mindbook%20Pro-%231A73E8?style=for-the-badge&logo=android&logoColor=white" alt="Mindbook Pro" />
+  <img src="https://img.shields.io/badge/Strict-TypeScript-%23215E99?style=for-the-badge&logo=typescript&logoColor=white" alt="Strict TypeScript" />
+  <img src="https://img.shields.io/badge/Offline-First-%230073B7?style=for-the-badge&logo=databricks&logoColor=white" alt="Offline First" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-SOLID-%231B4965?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Neuro%20UX-Minimalism-%23D81E5B?style=for-the-badge&logo=eye&logoColor=white" alt="Neuro UX" />
+  <img src="https://img.shields.io/badge/AI-Native-%2399CC00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Native" />
+  <img src="https://img.shields.io/badge/CI-CD-%23005B96?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
 
