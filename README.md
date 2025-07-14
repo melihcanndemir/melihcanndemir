@@ -8,6 +8,11 @@
 
 <img src="https://img.shields.io/badge/Mindbook-Pro-%231a91ff?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Strict-TypeScript-%23191970?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Offline-First-%231a91ff?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-SOLID-%23191970?style=for-the-badge&logo=structure&logoColor=white" />
+<img src="https://img.shields.io/badge/Neuro%20UX-Minimalism-%23ff00c8?style=for-the-badge&logo=eye&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Native-%2300ffe7?style=for-the-badge&logo=openai&logoColor=white" />
+
 
 
 
