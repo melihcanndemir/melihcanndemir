@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior Android Developer with a passion for building **mindful applications** that combine elegant user experience with robust, scalable architecture. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
+I'm a Android Developer with a passion for building **mindful applications** that combine elegant user experience with robust, scalable architecture. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
 
 - 🔭 **Currently Building:** Mindbook - An AI-powered mindfulness and productivity app
 - 💻 **Tech Philosophy:** Clean Architecture, SOLID principles, and TypeScript purist
