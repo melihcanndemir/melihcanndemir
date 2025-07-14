@@ -3,9 +3,11 @@
 </p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=☠️+Strict+TypeScript+Purist;⚡+Mindbook+Pro+Builder;🧠+AI-First+Design+Thinker;🦾+Offline-First+Neuro-UX&center=true&width=500&height=50&color=00ffe7&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Melih+Can+Demir;Android+Dev+%26+TypeScript+Purist;Mindbook+Builder;Clean+Code+Evangelist&center=true&width=500&height=50" />
 </a>
 
+<img src="https://img.shields.io/badge/Mindbook-Pro-%2300ffe7?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Strict-TypeScript-%23ff00c8?style=for-the-badge&logo=typescript&logoColor=white">
 
 
 <p align="center">
@@ -21,13 +23,6 @@
 - 📫 Reach me at **melihcandemir@protonmail.com**
 
 ---
-
-<svg viewBox="0 0 500 60">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-    font-size="36" font-family="monospace"
-    fill="none" stroke="#00ffe7" stroke-width="1.5"
-    stroke-dasharray="1000"
-
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
