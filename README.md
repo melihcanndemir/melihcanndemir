@@ -1,29 +1,38 @@
 # Hi there, I'm Melih Can Demir 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;TypeScript+%26+Clean+Architecture+Advocate;AI-Native+App+Builder;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Senior+Prompt+Engineer;Generative+AI+Specialist;OSS+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Passionate about crafting exceptional mobile experiences with clean architecture and cutting-edge AI integration</em>
+  <em>Passionate about building intelligent applications with cutting-edge AI and contributing to open source</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Android Developer with a passion for building **mindful applications** that combine elegant user experience with robust, scalable architecture. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
+I'm a Software Developer and Senior Prompt Engineer with a passion for **Generative AI** and building intelligent applications. As an active **OSS Contributor**, I love creating tools that combine elegant user experience with cutting-edge AI capabilities. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
 
 - 🔭 **Currently Building:** Mindbook - An AI-powered mindfulness and productivity app
-- 💻 **Tech Philosophy:** Clean Architecture, SOLID principles, and TypeScript purist
-- 🌱 **Learning:** Advanced AI integration patterns and modern Android development
+- 🤖 **AI Focus:** Generative AI, Prompt Engineering, and AI-native applications
+- 🌱 **Learning:** Advanced AI integration patterns and prompt optimization techniques
 - 📱 **Apps:** Available on [Google Play Store](https://bit.ly/melihcan)
 - ✍️ **Writing:** Technical articles on [Medium](https://medium.com/@melihcandemir) about AI Architecture & Prompt Engineering
-- 💬 **Ask me about:** Android Development, React Native, Clean Architecture, AI Integration
+- 🛠️ **OSS:** Contributing to open source projects and AI tools
+- 💬 **Ask me about:** Generative AI, Prompt Engineering, Mobile Development, AI Integration
 
 ---
 
 ## 🛠️ Tech Stack
+
+### AI & Prompt Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Generative_AI-00D4FF?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI" />
+</p>
 
 ### Mobile Development
 <p align="left">
@@ -61,12 +70,21 @@ I'm a Android Developer with a passion for building **mindful applications** tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melihcanndemir&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihcanndemir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihcanndemir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihcanndemir&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melihcanndemir&theme=github_dark" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melihcanndemir&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melihcanndemir&theme=github_dark" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melihcanndemir&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melihcanndemir&theme=github_dark&utcOffset=3" alt="Productive Time"/>
 </div>
 
 ---
@@ -85,10 +103,10 @@ I'm a Android Developer with a passion for building **mindful applications** tha
 <tr>
 <td>
 
-**🎨 Design Philosophy**
-- Minimalist UX/UI Design
-- Neuro-UX Principles
-- User-Centered Approach
+**🤖 AI Engineering**
+- Prompt Engineering
+- Generative AI Integration
+- AI-First Development
 
 </td>
 <td>
@@ -96,15 +114,15 @@ I'm a Android Developer with a passion for building **mindful applications** tha
 **🏗️ Architecture**
 - Clean Architecture
 - SOLID Principles
-- Domain-Driven Design
+- Scalable Design
 
 </td>
 <td>
 
-**🤖 AI Integration**
-- AI-Native Development
-- Prompt Engineering
-- Machine Learning Integration
+**🌍 Open Source**
+- OSS Contribution
+- Community Building
+- Knowledge Sharing
 
 </td>
 </tr>
@@ -115,7 +133,7 @@ I'm a Android Developer with a passion for building **mindful applications** tha
 ## 📱 Featured Projects
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.melihcandemir.mindbook">
+  <a href="https://bit.ly/melihcan">
     <img src="https://img.shields.io/badge/📱_Mindbook_Pro-Download_on_Google_Play-1A73E8?style=for-the-badge&logo=android&logoColor=white" alt="Mindbook Pro" />
   </a>
 </div>
@@ -125,10 +143,10 @@ I'm a Android Developer with a passion for building **mindful applications** tha
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Prompts: Building AI-Native Systems with Modular Reasoning and Recursive Architectures]([https://medium.com/@melihcandemir](https://medium.com/@melihcandemir/beyond-prompts-building-ai-native-systems-with-modular-reasoning-and-recursive-architectures-e865a9282816))
-- [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
-- [AI-Assisted Multi-Agent Orchestration Strategies]([https://medium.com/@melihcandemir](https://medium.com/@melihcandemir/ai-assisted-multi-agent-orchestration-strategies-dd537ab1b90c))
-
+- [Advanced Prompt Engineering Techniques](https://medium.com/@melihcandemir)
+- [Generative AI in Mobile Development](https://medium.com/@melihcandemir)
+- [Building AI-Native Applications](https://medium.com/@melihcandemir)
+- [Open Source Contribution Guide](https://medium.com/@melihcandemir)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -171,5 +189,5 @@ I'm a Android Developer with a passion for building **mindful applications** tha
 </div>
 
 <div align="center">
-  <em>💡 "Clean code always looks like it was written by someone who cares." - Robert C. Martin</em>
+  <em>💡 "The best way to predict the future is to create it with AI." - Melih Can Demir</em>
 </div>
