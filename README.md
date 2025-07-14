@@ -3,8 +3,9 @@
 </p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Melih+Can+Demir;Android+Dev+%26+TypeScript+Purist;Mindbook+Builder;Clean+Code+Evangelist&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=☠️+Strict+TypeScript+Purist;⚡+Mindbook+Pro+Builder;🧠+AI-First+Design+Thinker;🦾+Offline-First+Neuro-UX&center=true&width=500&height=50&color=00ffe7&vCenter=true&pause=1000" />
 </a>
+
 
 
 <p align="center">
