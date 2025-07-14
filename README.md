@@ -12,6 +12,12 @@
   <em>Passionate about building intelligent applications with cutting-edge AI and contributing to open source</em>
 </p>
 
+<img src="https://img.shields.io/badge/Modular%20Design-Monorepo-%23191970?style=for-the-badge&logo=appveyor&logoColor=white" />
+<img src="https://img.shields.io/badge/Multilingual%20UX-12%20Languages-%238f00ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/Secure%20Storage-AES--256-%2300b894?style=for-the-badge&logo=veracrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown%20Support-Editor-%232b2d42?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20UX-Cognitive%20First-%23f39c12?style=for-the-badge&logo=neovim&logoColor=white" />
+
 ---
 
 ## 🚀 About Me
