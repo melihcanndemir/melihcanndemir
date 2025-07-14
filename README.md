@@ -1,7 +1,7 @@
 # Hi there, I'm Melih Can Demir 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Android+Developer;TypeScript+%26+Clean+Architecture+Advocate;AI-Native+App+Builder;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;TypeScript+%26+Clean+Architecture+Advocate;AI-Native+App+Builder;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 <p align="center">
