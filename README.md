@@ -2,7 +2,10 @@
   <img src="images/banner.png" alt="Android" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Melih Can Demir</h1>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Melih+Can+Demir;Android+Dev+%26+TypeScript+Purist;Mindbook+Builder;Clean+Code+Evangelist&center=true&width=500&height=50" />
+</a>
+
 
 <p align="center">
   Passionate Android developer crafting mindful apps with elegant architecture.
