@@ -147,10 +147,10 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Prompt Engineering Techniques](https://medium.com/@melihcandemir)
-- [Generative AI in Mobile Development](https://medium.com/@melihcandemir)
-- [Building AI-Native Applications](https://medium.com/@melihcandemir)
-- [Open Source Contribution Guide](https://medium.com/@melihcandemir)
+- [Beyond Prompts: Building AI-Native Systems with Modular Reasoning and Recursive Architectures](https://medium.com/@melihcandemir/beyond-prompts-building-ai-native-systems-with-modular-reasoning-and-recursive-architectures-e865a9282816)
+- [Beyond Semantics: The Impossibility of Consciousness in LLMs and the Prospect of NeuroSynthetic Awareness](https://medium.com/@melihcandemir/beyond-semantics-the-impossibility-of-consciousness-in-llms-and-the-prospect-of-neurosynthetic-94613a3c999b)
+- [Recursive Dual-AI Consciousness: Entropy, Reflection, and Emergent Intersubjectivity](https://medium.com/@melihcandemir/title-recursive-dual-ai-consciousness-entropy-reflection-and-emergent-intersubjectivity-612ae073c876)
+- [AI-Assisted Multi-Agent Orchestration Strategies](https://medium.com/@melihcandemir/ai-assisted-multi-agent-orchestration-strategies-dd537ab1b90c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
