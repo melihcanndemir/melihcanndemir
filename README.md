@@ -7,7 +7,7 @@
 </a>
 
 <img src="https://img.shields.io/badge/Mindbook-Pro-%2300ffe7?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Strict-TypeScript-%23ff00c8?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Strict-TypeScript-%#1a91ff?style=for-the-badge&logo=typescript&logoColor=white">
 
 
 <p align="center">
