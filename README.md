@@ -77,12 +77,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihcanndemir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
-<!-- Optional streak -->
-<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihcanndemir&theme=tokyonight&hide_border=true" />
 </p>
--->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/melihcanndemir/melihcanndemir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
