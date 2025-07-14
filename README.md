@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Clean%20Architecture-SOLID-%23191970?style=for-the-badge&logo=structure&logoColor=white" />
   <img src="https://img.shields.io/badge/Neuro%20UX-Minimalism-%23ff00c8?style=for-the-badge&logo=eye&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Native-%8fce00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Purist-%23ff007f?style=for-the-badge&logo=codecov&logoColor=white" />
 </p>
 
 
