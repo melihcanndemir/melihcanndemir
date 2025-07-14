@@ -21,6 +21,13 @@
 
 ---
 
+<svg viewBox="0 0 500 60">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+    font-size="36" font-family="monospace"
+    fill="none" stroke="#00ffe7" stroke-width="1.5"
+    stroke-dasharray="1000"
+
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/melihcandemir" target="_blank">
