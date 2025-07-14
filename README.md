@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="banner" />
+</p>
+
 # Hi there, I'm Melih Can Demir 👋
 
 <div align="center">
