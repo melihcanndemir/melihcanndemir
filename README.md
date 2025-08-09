@@ -18,7 +18,7 @@
 
 I'm a Software Developer and Senior Prompt Engineer with a passion for **Generative AI** and building intelligent applications. As an active **OSS Contributor**, I love creating tools that combine elegant user experience with cutting-edge AI capabilities. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
 
-- 🔭 **Currently Building:** Mindbook - An AI-powered mindfulness and productivity app
+- 🔭 **Currently Building:** Akilhane - An AI-powered Turkish Education Platform
 - 🤖 **AI Focus:** Generative AI, Prompt Engineering, and AI-native applications
 - 🌱 **Learning:** Advanced AI integration patterns and prompt optimization techniques
 - 📱 **Apps:** Available on [Google Play Store](https://bit.ly/melihcan)
