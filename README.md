@@ -206,7 +206,6 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
   <em>💡 "The best way to predict the future is to create it with AI." - Melih Can Demir</em>
 </div>
 
-```markdown
 <div align="center">
 
 # 🤖 Melih Can Demir
@@ -239,5 +238,3 @@ Building the **future of AI-powered education** with AkılHane - a platform that
 - 3D interactive learning
 - Cross-domain knowledge synthesis
 - Voice-controlled interfaces
-
----
