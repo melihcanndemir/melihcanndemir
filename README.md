@@ -207,34 +207,3 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 </div>
 
 <div align="center">
-
-# 🤖 Melih Can Demir
-## AI-Native Developer | EdTech Innovator
-
-[![Sponsor](https://img.shields.io/badge/💖_Sponsor_My_Journey-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/melihcanndemir)
-
-</div>
-
-## 🏆 Recent Achievements
-
-- 🥇 **BTK Akademi 2025 Hackathon** - Competing with $1.9M estimated valued platform
-- 🤖 **Multi-AI Orchestration** - Mastering Cursor AI + 4 LLMs simultaneously  
-- 🚀 **Enterprise Platform** - Built production-ready EdTech solution at 24
-- 📊 **119 Deployments** - Continuous integration/deployment mastery
-- 🧠 **Innovation Leader** - Cross-domain learning & 3D education pioneers
-
-## 💻 Tech Arsenal
-
-**AI & Development:**
-- 🤖 AI Orchestration (Gemini 2.5 Pro, Claude, ChatGPT)
-- ⚡ Cursor AI + Meta-prompting strategies
-- 🔥 Next.js 15, TypeScript, React ecosystem
-- 🎯 Three.js, WebGL, 3D visualization
-
-## 🌟 Current Focus
-
-Building the **future of AI-powered education** with AkılHane - a platform that combines:
-- Multi-AI tutoring systems
-- 3D interactive learning
-- Cross-domain knowledge synthesis
-- Voice-controlled interfaces
